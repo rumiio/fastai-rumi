@@ -43,7 +43,7 @@ dependencies:
 - libsodium
 - libxml2
 - markupsafe
-- matplotlib<=2.2.3
+- matplotlib
 - mistune
 - mkl
 - nbconvert
@@ -81,7 +81,7 @@ dependencies:
 - sqlite
 - statsmodels
 - testfixtures
-- testpath>=0.4.2
+- testpath
 - tk
 - tornado<5
 - tqdm
@@ -100,11 +100,11 @@ dependencies:
   - opencv-python
   - isoweek
   - pandas_summary
-  - torchtext==0.2.3
+  - torchtext
   - graphviz
   - sklearn_pandas
   - feather-format
-#  - plotnine
+  - plotnine
   - kaggle-cli
   - ipywidgets
   - pdpbox<=0.1.0
